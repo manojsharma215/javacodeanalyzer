@@ -1,0 +1,22 @@
+
+J
+java:S1123"(Add the missing @deprecated Javadoc tag.(í©ÿûÿÿÿÿ8Ñâ«ËÂ.
+W
+java:S1133"5Do not forget to remove this deprecated code someday.(í©ÿûÿÿÿÿ8Ñâ«ËÂ.
+f
+java:S1206"PThis class overrides "equals()" and should therefore also override "hashCode()".(ÜÑã
+S
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+q
+java:S1192"ODefine a constant instead of duplicating this literal "This is a test" 4 times.(ëØîÆøÿÿÿÿ8ÊÙ¯ËÂ.
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(ëØîÆøÿÿÿÿ8ÊÙ¯ËÂ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ëØîÆøÿÿÿÿ8İ¹¥ËÂ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ëØîÆøÿÿÿÿ8ÊÙ¯ËÂ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ø¼üÿÿÿÿ8£÷¬ËÂ.
+Z	java:S106	"9Replace this use of System.out or System.err by a logger.(ëØîÆøÿÿÿÿ8ÊÙ¯ËÂ.
+~
+java:S1192"\Define a constant instead of duplicating this literal "This is a deprecated method" 4 times.(Ø¼üÿÿÿÿ8÷€°ËÂ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ø¼üÿÿÿÿ8÷€°ËÂ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ø¼üÿÿÿÿ8÷€°ËÂ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ø¼üÿÿÿÿ8÷€°ËÂ.

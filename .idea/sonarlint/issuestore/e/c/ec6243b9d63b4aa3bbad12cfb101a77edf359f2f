@@ -1,0 +1,8 @@
+
+E
+java:S1148$"#Use a logger to log this exception.(¯Óí‘úÿÿÿÿ8ñ–¥Ü¿.
+G
+java:S1181#"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ8ñ–¥Ü¿.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÿ«ØÀ8ñ–¥Ü¿.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(íþñõ8ñ–¥Ü¿.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(íãêÕüÿÿÿÿ8ñ–¥Ü¿.
