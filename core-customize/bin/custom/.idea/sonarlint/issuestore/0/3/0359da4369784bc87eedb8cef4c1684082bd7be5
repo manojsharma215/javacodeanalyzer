@@ -1,0 +1,7 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(¶áÎÙûÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(Ñ¾ü”ûÿÿÿÿ
+X
+java:S1874I"=Remove this use of "SimpleElementVisitor6"; it is deprecated.(õİÂŠúÿÿÿÿ

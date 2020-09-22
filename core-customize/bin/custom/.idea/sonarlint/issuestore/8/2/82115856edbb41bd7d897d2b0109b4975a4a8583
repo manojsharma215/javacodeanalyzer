@@ -1,0 +1,13 @@
+
+R
+java:S1191"5Use classes from the Java API instead of Sun classes.(£å°¿8Ş¼´ÉÂ.
+J
+java:S3740"/Provide the parametrized type for this generic.(çºğ„øÿÿÿÿ
+o
+java:S2293#"YReplace the type specification in this constructor call with the diamond operator ("<>").(§±ƒ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(†‡­¯ùÿÿÿÿ8ë—µÉÂ.
+R
+java:S1905"0Remove this unnecessary cast to "StatementTree".(áüÑôúÿÿÿÿ8Ş¼´ÉÂ.
+A
+java:S1168("+Return an empty collection instead of null.(¥¹ï
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(áüÑôúÿÿÿÿ8™ÿºÉÂ.

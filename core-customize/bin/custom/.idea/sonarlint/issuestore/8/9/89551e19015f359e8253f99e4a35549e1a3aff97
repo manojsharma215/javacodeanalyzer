@@ -1,0 +1,10 @@
+
+Z	java:S106M"9Replace this use of System.out or System.err by a logger.(éþÃûùÿÿÿÿ8œ“Å¢Â.
+`
+java:S1155&">Use isEmpty() to check whether the collection is empty or not.(Î·ÜÞýÿÿÿÿ8œ“Å¢Â.
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(Ä˜Úáüÿÿÿÿ8œ“Å¢Â.
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(”ùµì8œ“Å¢Â.
+v
+java:S2293E"YReplace the type specification in this constructor call with the diamond operator ("<>").(Š®‚¢8œ“Å¢Â.
+{
+java:S2293,"YReplace the type specification in this constructor call with the diamond operator ("<>").(À¦–Ûýÿÿÿÿ8œ“Å¢Â.
